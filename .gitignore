@@ -22,7 +22,7 @@
 hs_err_pid*
 *~
 .fuse_hidden*
-.directory
+.directory！
 .Trash-*
 .nfs*
 *.DS_Store
